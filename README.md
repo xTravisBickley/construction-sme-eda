@@ -83,7 +83,7 @@
 1. Клонируйте репозиторий:
 ```bash
 git clone <https://github.com/xTravisBickley/construction-sme-eda.git>
-cd <construction-sme-eda>
+cd construction-sme-eda
 ```
 
 1. Установите зависимости:
